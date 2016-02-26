@@ -1,2 +1,2 @@
 # Hello_world
-Hello guys!This is just a test repository, I hope you guys welcome a noob like me!
+I wanna learn python coding and practice more and more via the code shared on Github-site!
